@@ -1,3 +1,3 @@
-This is a simple Python script that will generate text with a neat border made from ASCII pipe characters.
-Just run the script and input your lines of text, and it will print out the text with the border.
-Enjoy! :D
+This script, `fix_script.py`, generates a bordered text from the input lines. To run the script, execute the following command in your terminal:
+```python fix_script.py
+```
